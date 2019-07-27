@@ -1,5 +1,6 @@
 # Great-Python-Resources
-Resources for Beginners and Intermediate Python Developers
+Resources for Beginners and Intermediate Python Developers. These are the tutorials/books that I have personally used and selected based on multiple factors including ease of understanding, scope, price and most importantly value.
+
 List of resources for learning Python:
 
 ## Python
